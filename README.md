@@ -52,7 +52,39 @@ User can edit tables freely, allowing experiments with rendering with other para
 
 Herma Applet was made with Matlab®. The source code is provided here, in the file hermauimac.m. The structure is simple and details can be checked in the bibliography below.
 
-![Herma Applet Structure](https://github.com/Pauxygnunes/Herma-Applet/assets/30673056/f3b0d2b4-fe2a-41d6-ad1b-4aa8ca6989d2 | width=100)
+![Herma Applet Structure](https://github.com/Pauxygnunes/Herma-Applet/assets/30673056/4ece41f5-cd93-4ea5-b854-48dd9ed16b98)
+
+## References
+
+Agon, Carlos, Moreno Andreatta, Gérard Assayag, and Stéphan Schaub. “Formal Aspects of Iannis Xenakis' ‘Symbolic Music’: A Computer-Aided Exploration of Compositional Processes.” _Journal of New Music Research_. 32(2): 145-159. https://doi.org/10.1080/0929821042000310621.
+
+Gentil-Nunes, Pauxy. _Herma Applet_. V. 0.1 Alpha. PPGM-UFRJ. 2022. 
+
+Gentil-Nunes, Pauxy; Simões, Luan; Viana, Petrucio. 2022. An Attempt at Extending Xenakis’ Compositional Design of Herma through Computational Tools. Xenakis 22 Centenary International Symposium. _Proceedings…_ Atenas: University of Atenas.
+
+Gibson, Benoît. “On Herma.” In: Nakipbekova, Alfia (ed.). _Exploring Xenakis: Performance, Practice, Philosophy_, 53-66, Vernon Press, 2019.
+
+Grossmann, Daniel. _Iannis Xenakis — Music for Keyboard Instruments — Realized by Computer_. Compact Disc. NEOS 10707, 2008.
+
+Montague, Eugene. _The Limits of Logic: Structure and Aesthetics in Xenakis’s Herma_. Master’s thesis, University of Massachusetts at Amherst, 1995.
+
+Morris, Robert. _Composition with Pitch Classes: A Theory of Compositional Design_. New Haven: Yale University, 1987.
+
+Simões, Luan. _Hermoser_. V. 1.0. GitHub. 2022. https://github.com/luansimoes/Hermoser
+
+Squibbs, R. “Musical composition as applied mathematics: set theory and probability in Iannis Xenakis’s ‘Herma’.” Bridges: Mathematical Connections in Art, Music, and Science. _Conference Proceedings_, 2000.
+
+Straus, Joseph. _A Primer for Atonal Set Theory_. New York: CUNY, 1991. https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1473&context=gc_pubs.
+
+Varga, Bálint András.1996. _Conversations with Iannis Xenakis_. Queen Square London: Faber and Faber.
+
+Wannamaker, Robert. “Structure and Perception in Herma by Iannis Xenakis.” _Music Theory Online_ 7.3, 2001.
+
+Xenakis, Iannis. _Herma_. Piano solo. Score. London: Boosey & Hawkes, 1967.
+
+Xenakis, Iannis. 1992. _Formalized Music_. Stuyvesant NY: Pendragon Press.
+
+==========
 
 Copyright ©2021, Pauxy Gentil Nunes Filho (UFRJ), Luan Simões (UFRJ) and Petrucio Vianna (UFF)
 
