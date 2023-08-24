@@ -50,7 +50,9 @@ User can edit tables freely, allowing experiments with rendering with other para
 
 ![Sections](https://github.com/Pauxygnunes/Herma-Applet/assets/30673056/370726d4-d78c-4abe-9b36-75b9c86f97bb)
 
-Herma Applet was made with Matlab®
+Herma Applet was made with Matlab®. The source code is provided here, in the file hermauimac.m. The structure is simple and details can be checked in the bibliography below.
+
+![Herma Applet Structure](https://github.com/Pauxygnunes/Herma-Applet/assets/30673056/f3b0d2b4-fe2a-41d6-ad1b-4aa8ca6989d2 | width=100)
 
 Copyright ©2021, Pauxy Gentil Nunes Filho (UFRJ), Luan Simões (UFRJ) and Petrucio Vianna (UFF)
 
